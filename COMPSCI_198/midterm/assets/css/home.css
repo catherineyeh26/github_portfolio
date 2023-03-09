@@ -1,0 +1,59 @@
+header {
+    background: rgba(22, 61, 22, 0.935)
+    position: fixed;
+    height: 160px;
+}
+
+
+body {
+    background-color: rgba(22, 61, 22, 0.935);
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+
+#logo {
+    height: 160px;
+    margin: 0px;
+}
+
+nav {
+    font-size: 35px;
+    display: inline-block;
+    float: right;
+    margin-top: 65px;
+    margin-right: 20px;
+}
+nav li {
+    display: inline-block;
+    margin-left: 80px;
+    line-height: 80px;
+}
+
+nav a, nav a:visited {
+    color: white;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+nav a:hover {
+    text-decoration: underline;
+    font-size: 40px;
+}
+.content {
+    font-family: 'Italianno';
+
+}
+
+img {
+    size: 100%;
+
+}
+
+h1 {
+    font-size: 23px;
+}
+
+h2 {
+    font-size: 18px;
+}
